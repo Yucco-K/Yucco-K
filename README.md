@@ -12,8 +12,8 @@ Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
       <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
         <img
           src="https://render.gitanimals.org/farms/Yucco-K?timestamp=20250711"
-          width="300"
-          height="150"
+          width="360"
+          height="180"
           alt="My GitAnimals Farm"
         />
       </a>
