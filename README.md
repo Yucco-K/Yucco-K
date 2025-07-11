@@ -20,6 +20,3 @@ Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) and [X (Twitter)](h
     </td>
   </tr>
 </table>
-
-[![GitAnimals](https://gh-card.dev/repos/git-goods/gitanimals.svg)](https://github.com/git-goods/gitanimals)
-
