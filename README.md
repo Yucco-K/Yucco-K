@@ -7,6 +7,9 @@ I’m Yuki😄 Developing with Next.js, React, TypeScript, Supabase, etc.🐾
 I enjoy building things and learning along the way!  
 Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
 
+このたび 🌐 個人サイトを公開しました！
+👉 https://yucco-k.github.io/  
+
 </td>
     <td>
       <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
