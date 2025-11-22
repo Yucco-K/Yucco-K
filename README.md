@@ -1,4 +1,4 @@
-<table align="center" style="max-width: 900px; width: 100%;">
+<table align="center" style="max-width: 1200px; width: 100%;">
 
   <!-- 自己紹介（1枚目のカード） -->
   <tr>
