@@ -1,14 +1,17 @@
 <table>
   <tr>
     <td>
-      Hi there 👋  
-      I’m Yuki😄 Developing with Next.js, React, TypeScript, Supabase, etc.🐾  
-      I enjoy building things and learning along the way!  
-      Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
-      
-      🌐 My Personal Website Is Live!  👉 https://yucco-k.github.io/                                      
-      🌐 Representative work:　        👉 https://yucco-k.github.io/showcase/
-    </td>
+
+Hi there 👋  
+I’m Yuki😄 Developing with Next.js, React, TypeScript, Supabase, etc.🐾  
+I enjoy building things and learning along the way!  
+Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
+
+🌐 My Personal Website Is Live!  👉 https://yucco-k.github.io/
+                                 
+🌐 Representative work:　        👉 https://yucco-k.github.io/showcase/
+
+</td>
     <td>
       <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
         <img
