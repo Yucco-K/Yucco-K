@@ -17,10 +17,10 @@
     <td align="left" style="padding: 0 0 32px;">
       <div style="margin: 16px 0;">
         <h3>⭐ 🌐 My Personal Website Is Live!</h3>
-        <p>👉 <a href="https://yucco-k.github.io/">https://yucco-k.github.io/</a></p>
+        <p>👉 <a href="https://yucco-k.github.io">https://yucco-k.github.io</a></p>
         <br>
         <h3>⭐ 🌐 Representative work:</h3>
-        <p>👉 <a href="https://yucco-k.github.io/showcase/">https://yucco-k.github.io/showcase/</a></p>
+        <p>👉 <a href="https://yucco-k.github.io/showcase">https://yucco-k.github.io/showcase</a></p>
       </div>
     </td>
   </tr>
