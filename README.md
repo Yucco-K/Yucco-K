@@ -72,7 +72,6 @@ Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 <!--
 ## 📈 Contribution Graph
