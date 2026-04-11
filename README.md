@@ -21,7 +21,6 @@ Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
     <img src="https://render.gitanimals.org/farms/Yucco-K" width="600" alt="My GitAnimals Farm" />
   </a>
 </div>
-
 ---
 
 ## 📊 GitHub Stats
