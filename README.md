@@ -11,10 +11,6 @@ Sharing what I learn daily on [Zenn](https://zenn.dev/yucco) ✨
 ## 🌐 My Personal Website Is Live!
 👉 https://yucco-k.github.io
 
-## 🌐 Representative work:
-👉 https://yucco-k.github.io/showcase
-
----
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
