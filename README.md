@@ -1,10 +1,3 @@
-# 👋 Hi there
-
-I'm Yuki😄 Developing with Next.js, React, TypeScript, Supabase, etc.🐾
-
-I enjoy building things and learning along the way!
-
----
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
