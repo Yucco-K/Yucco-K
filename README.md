@@ -1,3 +1,17 @@
+<div align="center">
+
+# こんにちは、Yucco-K です 👋
+
+React / TypeScript を軸にフロントエンドからバックエンドまで手を動かすフルスタック志向の開発者です。
+Web・モバイル(React Native)問わずアプリを個人開発しながら、Java/Spring Boot や AWS Lambda など
+複数のバックエンド技術にも挑戦しています。開発効率化やAI活用にも関心があり、
+Cursor や Claude Design などのツールを日々の開発フローに取り入れています。
+
+🔭 現在は実務で提案・Issue起票からフロントエンド/バックエンドの設計・実装、テスト設計・実装まで
+一気通貫で対応することが増えています。直近では tRPC・Prisma・Zod を用いたバックエンドAPI設計と、
+レビュー対応に取り組んでいます。
+
+</div>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
@@ -8,13 +22,11 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yucco-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yucco-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
-<!--
 ---
 
 ## 🛠️ Tech Stack
@@ -55,12 +67,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
--->
 
-<!--
+---
+
 ## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yucco-K&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yucco-K&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
--->
