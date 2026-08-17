@@ -21,7 +21,7 @@ Claude Code / Claude Design などのツールを日々の開発フローに取�
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -30,7 +30,7 @@ Claude Code / Claude Design などのツールを日々の開発フローに取�
 </div>
 
 ---
-
+-->
 ## 🛠️ Tech Stack
 
 ### Languages
