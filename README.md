@@ -5,7 +5,7 @@
 React / TypeScript を軸にフロントエンドからバックエンドまで手を動かすフルスタック志向の開発者です。
 Web・モバイル(React Native)問わずアプリを個人開発しながら、Java/Spring Boot や AWS Lambda など
 複数のバックエンド技術にも挑戦しています。開発効率化やAI活用にも関心があり、
-Cursor や Claude Design などのツールを日々の開発フローに取り入れています。
+Claude Code / Claude Design などのツールを日々の開発フローに取り入れています。
 
 <!--
 🔭 現在は実務で提案・Issue起票からフロントエンド/バックエンドの設計・実装、テスト設計・実装まで
