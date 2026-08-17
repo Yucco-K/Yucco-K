@@ -9,7 +9,7 @@ Claude Code / Claude Design などのツールを日々の開発フローに取�
 
 <!--
 🔭 現在は実務で提案・Issue起票からフロントエンド/バックエンドの設計・実装、テスト設計・実装まで
-対応することが増えています。
+対応しています。
 -->
 
 </div>
@@ -21,7 +21,7 @@ Claude Code / Claude Design などのツールを日々の開発フローに取�
 </div>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -30,7 +30,7 @@ Claude Code / Claude Design などのツールを日々の開発フローに取�
 </div>
 
 ---
--->
+
 ## 🛠️ Tech Stack
 
 ### Languages
