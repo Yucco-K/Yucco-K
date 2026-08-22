@@ -1,78 +1,106 @@
-<div align="center">
+# GitHub Profile README
 
 # こんにちは、Yucco-K です 👋
 
-React / TypeScript を軸にフロントエンドからバックエンドまで手を動かすフルスタック志向の開発者です。
-Web・モバイル(React Native)問わずアプリを個人開発しながら、Java/Spring Boot や AWS Lambda など
-複数のバックエンド技術にも挑戦しています。開発効率化やAI活用にも関心があり、
-Claude Code / Claude Design などのツールを日々の開発フローに取り入れています。
+### Web Application Developer
 
-<!--
-🔭 現在は実務で提案・Issue起票からフロントエンド/バックエンドの設計・実装、テスト設計・実装まで
-対応しています。
--->
+React / TypeScript を中心に、Webアプリケーションの開発・改善に取り組んでいます。
 
-</div>
+既存プロダクトの機能追加やUI/UX改善、バグ修正、テストなどを経験しながら、
+フロントエンドだけでなくバックエンドや開発環境まで理解できるエンジニアを目指しています。
 
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Yucco-K?cache=1" width="600" alt="My GitAnimals Farm" />
-  </a>
-</div>
+また、Claude Code などのAIツールを活用し、
+**調査・実装・テスト・ドキュメント作成を効率化する開発フロー**にも取り組んでいます。
 
 ---
-<!--
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yucco-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yucco-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</div>
+## 💻 What I Do
+
+### 🔧 Product Development
+
+既存Webサービスの仕様やコードを読みながら、
+機能追加・UI改善・既存機能の改修に取り組んでいます。
+
+### 🐛 Bug Investigation & Maintenance
+
+不具合の再現確認、原因調査、影響範囲の確認から修正・テストまで、
+既存プロダクトを安全に改善するための開発を経験しています。
+
+### 🧪 Testing
+
+実装だけでなく、既存テストの確認やテストケースの追加、
+Playwright などを活用した動作確認にも取り組んでいます。
+
+### 🤖 AI-assisted Development
+
+Claude Code などのAIツールを、コード生成だけでなく、
+調査・設計整理・レビュー補助・テスト・ドキュメント作成にも活用しています。
 
 ---
--->
+
+## 🌱 Currently Learning
+
+現在は、フロントエンドを軸にしながらバックエンドの理解を深めています。
+
+* Java / Spring Boot
+* Web API / Backend Architecture
+* Database Design
+* Docker / CI
+* Testing / E2E Testing
+* AI-assisted Development
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Main
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Database & BaaS
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-### AI & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yucco-K&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+## 🐾 GitAnimals
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yucco-K&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/Yucco-K?cache=1" width="500" alt="My GitAnimals Farm">
+  </a>
+</p>
+
+---
+
+## 📈 Contribution
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yucco-K&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+</p>
