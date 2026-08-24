@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # こんにちは、Yucco-K です 👋
 
 React / TypeScript を中心に、Webアプリケーションの開発・改善に取り組んでいます。
