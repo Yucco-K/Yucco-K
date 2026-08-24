@@ -2,8 +2,6 @@
 
 # こんにちは、Yucco-K です 👋
 
-### Web Application Developer
-
 React / TypeScript を中心に、Webアプリケーションの開発・改善に取り組んでいます。
 
 既存プロダクトの機能追加やUI/UX改善、バグ修正、テストなどを経験しながら、  
