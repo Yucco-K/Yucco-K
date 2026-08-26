@@ -54,6 +54,7 @@ Claude Code などのAIツールを、
   </a>
 </p>
 
+<!--
 ---
 
 ## 📈 Contribution
@@ -61,3 +62,5 @@ Claude Code などのAIツールを、
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yucco-K&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
 </p>
+
+-->
