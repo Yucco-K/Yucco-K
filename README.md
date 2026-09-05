@@ -29,8 +29,7 @@ Playwright を使った E2E テストにも取り組んでいます。
 
 ### 🤖 AI-assisted Development
 
-Claude Code などのAIツールを、  
-調査・実装・テスト・ドキュメント作成の補助として活用しています。
+Claude Code などのAIツールを、調査・実装・テスト・ドキュメント作成の補助として活用し、Obsidianで調査内容や学び、作業記録を整理・蓄積しています。
 
 ---
 
