@@ -45,6 +45,8 @@ Claude Code などのAIツールを、調査・実装・テスト・ドキュメ
 - Docker / CI
 - Testing / E2E Testing
 
+-->
+
 ---
 
 ## 🐾 GitAnimals
@@ -55,7 +57,7 @@ Claude Code などのAIツールを、調査・実装・テスト・ドキュメ
   </a>
 </p>
 
-
+<!--
 ---
 
 ## 📈 Contribution
