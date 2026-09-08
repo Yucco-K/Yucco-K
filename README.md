@@ -32,21 +32,19 @@ Playwright を使った E2E テストにも取り組んでいます。
 Claude Code などのAIツールを、調査・実装・テスト・ドキュメント作成の補助として活用し、
 Obsidianで調査内容や学び、作業記録を整理・蓄積しています。
 
-<!--
-
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-現在は、フロントエンドを軸にしながらバックエンドの理解を深めています。
-
-- Java / Spring Boot
-- Web API / Backend Architecture
-- Database Design
-- Docker / CI
-- Testing / E2E Testing
-
--->
+* TypeScript
+* PostgreSQL / Database Design
+* HTTP / Web API
+* Authentication / Authorization
+* Testing / Debugging
+* Docker / CI/CD
+* AWS / Cloud Infrastructure
+* Backend Architecture
+* AI-assisted Software Engineering
 
 ---
 
