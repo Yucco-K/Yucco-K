@@ -1,6 +1,8 @@
 ## こんにちは、Yucco-K です 👋　　
-🌐  https://showcase-598.pages.dev/
 
+<!--
+🌐  https://showcase-598.pages.dev/
+-->
 React / TypeScript を中心に、Webアプリケーションの開発・改善に取り組んでいます。
 
 既存プロダクトの機能追加やUI/UX改善、バグ修正、テストなどを経験しながら、  
